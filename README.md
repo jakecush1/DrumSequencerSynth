@@ -7,12 +7,12 @@ DrumSynthWeb.html
 Drum4.py
 - This is an 808-like drum sequencer built with Python.  Download the whole folder with the sounds, or just the file and use your own sounds.  Note the directory format below.
 
-  ├── ./
-  │   ├── drum4.py
-  │   └── hihat.wav
-  │   └── kick.wav
-  │   └── snare.wav
-  │   └── clap.wav
+.
+├── drum4.py
+├── hihat.wav
+├── kick.wav
+├── snare.wav
+└── clap.wav
 
 - Once files are established on your local machine, run Python file and enjoy!
 ```
